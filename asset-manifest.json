@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/NibirImtiaz.profile/static/css/main.00ad3026.chunk.css",
+    "main.js": "/NibirImtiaz.profile/static/js/main.a39fd411.chunk.js",
+    "main.js.map": "/NibirImtiaz.profile/static/js/main.a39fd411.chunk.js.map",
+    "runtime-main.js": "/NibirImtiaz.profile/static/js/runtime-main.9249d208.js",
+    "runtime-main.js.map": "/NibirImtiaz.profile/static/js/runtime-main.9249d208.js.map",
+    "static/css/2.d65fdcc0.chunk.css": "/NibirImtiaz.profile/static/css/2.d65fdcc0.chunk.css",
+    "static/js/2.193ab7ce.chunk.js": "/NibirImtiaz.profile/static/js/2.193ab7ce.chunk.js",
+    "static/js/2.193ab7ce.chunk.js.map": "/NibirImtiaz.profile/static/js/2.193ab7ce.chunk.js.map",
+    "index.html": "/NibirImtiaz.profile/index.html",
+    "static/css/2.d65fdcc0.chunk.css.map": "/NibirImtiaz.profile/static/css/2.d65fdcc0.chunk.css.map",
+    "static/css/main.00ad3026.chunk.css.map": "/NibirImtiaz.profile/static/css/main.00ad3026.chunk.css.map",
+    "static/js/2.193ab7ce.chunk.js.LICENSE.txt": "/NibirImtiaz.profile/static/js/2.193ab7ce.chunk.js.LICENSE.txt",
+    "static/media/1.8ac3f954.png": "/NibirImtiaz.profile/static/media/1.8ac3f954.png",
+    "static/media/index.css": "/NibirImtiaz.profile/static/media/7.fff72687.png",
+    "static/media/3.1cd97b27.png": "/NibirImtiaz.profile/static/media/3.1cd97b27.png",
+    "static/media/NibirImtiaz.143b4de0.pdf": "/NibirImtiaz.profile/static/media/NibirImtiaz.143b4de0.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9249d208.js",
+    "static/css/2.d65fdcc0.chunk.css",
+    "static/js/2.193ab7ce.chunk.js",
+    "static/css/main.00ad3026.chunk.css",
+    "static/js/main.a39fd411.chunk.js"
+  ]
+}
